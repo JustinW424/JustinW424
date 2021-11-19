@@ -13,8 +13,6 @@
 <img align="right" src="https://img.shields.io/github/followers/alexandera73?label=Follow&style=social" />
 <h1 align="center"></h1>
 
-<img height="150px" />
-
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>

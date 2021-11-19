@@ -2,10 +2,9 @@
   <img align="center" src="https://github.com/alexandera73/alexandera73/blob/master/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>

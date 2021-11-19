@@ -10,7 +10,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <img align="right" src="https://img.shields.io/github/followers/alexandera73?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=justin424&count_private=true&show_icons=true&theme=radical&hide_rank=false" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>

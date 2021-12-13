@@ -54,6 +54,9 @@
 ### DApps & Online Betting Website
 <br />
 
+### Smart Contract & Crypto
+<br />
+
 ### Crypto Trading Platforms & Bots
 <br />
 

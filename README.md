@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/justin424-crypto/justin424-crypto/blob/Temle/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/JustinWang47/JustinWang47/blob/Temle/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -49,7 +49,7 @@
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 
-<img align="right" alt="GIF" src="https://github.com/justin424-crypto/justin424-crypto/blob/Temle/code.gif?raw=true" width="400" />
+<img align="right" alt="GIF" src="https://github.com/JustinWang47/JustinWang47/blob/Temle/code.gif?raw=true" width="400" />
  
 ### DApps & Online Betting Website
 <br />

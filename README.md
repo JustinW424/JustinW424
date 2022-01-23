@@ -2,7 +2,6 @@
   <img align="center" src="https://github.com/JustinWang47/JustinWang47/blob/Temle/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
-  <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
@@ -49,7 +48,7 @@
 </table>
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-
+<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <img align="right" alt="GIF" src="https://github.com/JustinWang47/JustinWang47/blob/Temle/code.gif?raw=true" width="400" />
  
 ### DApps & Online Betting Website

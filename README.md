@@ -50,7 +50,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/bitcoin-360" width="100"></td>
   </tr>
 </table>
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨

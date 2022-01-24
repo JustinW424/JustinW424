@@ -12,7 +12,7 @@
  Creative, Passionate and Efficient Web3 & Cryptocurrency engineer with over 3 years of experience in BlockChain and of over 10 years in mobile and desktop applications design, development and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN Stack to Web3 & Cryptocurrency Stack to reduce development time and improve system performance. Implemented DAO, DEX, DApps, NFT Marketplaces with Web3.js and Solidity. And have hands-on experience in web hosting & maintenance, DAO and NFT Marketplaces, DApps & DEX. Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
 <p align="center">
-  <a href="https://github.com/Temple424"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Web3%20&%20Cryptocurrency%20Engineer;4+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/Temple424"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Web3%20and%20Cryptocurrency%20Engineer;4+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <img align="right" src="https://img.shields.io/github/followers/alexandera73?label=Follow&style=social" />

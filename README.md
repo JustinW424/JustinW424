@@ -54,13 +54,13 @@ Have worked in all phases of the project life cycle, using a wide variety of too
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
   </tr>
 </table>
-<a  align="left" href="https://github.com/smart04240" title="Go to Source">
-  <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=smart04240&theme=react&border=61dafb&hide_border=true" alt="Smart04240" />
+<a  align="left" href="https://github.com/JustinW424" title="Go to Source">
+  <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=JustinW424&theme=react&border=61dafb&hide_border=true" alt="JustinW424" />
 </a>
 <div>
-  <img align="left" alt="Smart04240's Github Stats" src="https://github-readme-stats.vercel.app/api?username=smart04240&theme=github_dark&show_icons=true&hide_border=false" />
-  <a align="left" href="https://github.com/smart04240">
-  <img width=325 alt="Smart04240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart04240&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img align="left" alt="JustinW424's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JustinW424&theme=github_dark&show_icons=true&hide_border=false" />
+  <a align="left" href="https://github.com/JustinW424">
+  <img width=325 alt="JustinW424" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinW424&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </a>
 </div>
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨

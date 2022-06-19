@@ -63,7 +63,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
   </div>
   <div>
     <a align="left" href="https://github.com/JustinW424">
-    <img width=425 alt="JustinW424" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinW424&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=370 alt="JustinW424" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinW424&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </div>

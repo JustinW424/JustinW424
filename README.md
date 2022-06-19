@@ -59,14 +59,14 @@ Have worked in all phases of the project life cycle, using a wide variety of too
     <img width=80% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=JustinW424&theme=react&border=61dafb&hide_border=true" alt="JustinW424" />
   </a>
 </div>
-<div>
+<div align="center" >
   <img width=55% align="left" alt="JustinW424's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JustinW424&theme=github_dark&show_icons=true&hide_border=false" />
   <a align="left" href="https://github.com/JustinW424">
     <img width=40% alt="JustinW424" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinW424&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JustinW424&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=JustinW424&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 <br>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JustinW424&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)

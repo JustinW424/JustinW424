@@ -54,7 +54,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
   </tr>
 </table>
-<div style="text-align: center; margin: 5%;" >
+<div align="center" >
   <a  align="center" href="https://github.com/JustinW424" title="Go to Source">
     <img width=80% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=JustinW424&theme=react&border=61dafb&hide_border=true" alt="JustinW424" />
   </a>

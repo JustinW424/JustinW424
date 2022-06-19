@@ -72,21 +72,20 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 <br>
 
 <h2 font-weight="bold">𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨</h2>
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <img align="right" alt="GIF" src="https://github.com/JustinWang47/JustinWang47/blob/Temle/code.gif?raw=true" width="400" />
  
-### DApps & Online Betting Website
+### DApps & NFT Marketplace & Defi & DEX
 <br />
 
-### Smart Contract & Crypto
+### Smart Contract
 <br />
 
 ### Crypto Trading Platforms & Bots
 <br />
 
-### AR & VR Web and Mobile application
+### Shopify & E-commerce
 <br />
 
-### Video Conference Web & Mobile application
+### Web Full Stack
 <br />

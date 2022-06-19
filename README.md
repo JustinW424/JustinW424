@@ -63,7 +63,15 @@ Have worked in all phases of the project life cycle, using a wide variety of too
   <img width=325 alt="JustinW424" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinW424&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </a>
 </div>
+
+<img src="https://github-profile-trophy.vercel.app/?username=JustinW424&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 <br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JustinW424&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+
+<br>
+
+<h2 font-weight="bold">𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨</h2>
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <img align="right" alt="GIF" src="https://github.com/JustinWang47/JustinWang47/blob/Temle/code.gif?raw=true" width="400" />

@@ -69,7 +69,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=JustinW424&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JustinW424&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JustinW424&bg_color=000000&color=000fff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
 
 <br>
 

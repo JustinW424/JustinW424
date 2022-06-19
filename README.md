@@ -60,9 +60,9 @@ Have worked in all phases of the project life cycle, using a wide variety of too
   </a>
 </div>
 <div>
-  <img width=50% align="left" alt="JustinW424's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JustinW424&theme=github_dark&show_icons=true&hide_border=false" />
+  <img width=45% align="left" alt="JustinW424's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JustinW424&theme=github_dark&show_icons=true&hide_border=false" />
   <a align="left" href="https://github.com/JustinW424">
-    <img width=30% alt="JustinW424" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinW424&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=40% alt="JustinW424" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinW424&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 

@@ -13,9 +13,9 @@
 Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
 <p align="center">
-  <a href="https://github.com/Temple424"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Web3%20Engineer;4+%2B%20years%20of%20hands-on%20experience%20in%20Web3;9+%2B%20years%20of%20hands-on%20experience%20as%20a%20Web%20Full%20Stack%20Developer&center=true&width=800&height=45"></a>
+  <a href="https://github.com/JustinW424"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Web3%20Engineer;4+%2B%20years%20of%20hands-on%20experience%20in%20Web3;9+%2B%20years%20of%20hands-on%20experience%20as%20a%20Web%20Full%20Stack%20Developer&center=true&width=800&height=45"></a>
 </p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=JustinW424" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <img align="right" src="https://img.shields.io/github/followers/JustinW424?label=Follow&style=social" />
 <h1 align="center"></h1>
 
